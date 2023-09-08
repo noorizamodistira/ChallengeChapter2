@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ChallengeCH2</string>
+    <string name="tv_greetings">Hai, Binarian!</string>
+    <string name="tv_greetings_desc">Apa Yang Ingin Kamu Makan Hari ini?</string>
+    <string name="tv_diskon">DISKON</string>
+    <string name="tv_diskon_desc">Pesan Makanan via Aplikasi, Dapatkan Diskon!</string>
+    <string name="tv_sarapan">Sarapan</string>
+    <string name="tv_fast_food">Fast Food</string>
+    <string name="tv_cake">Cake</string>
+    <string name="tv_beverage">Beverage</string>
+    <string name="tv_menu_list">List Menu</string>
+    <string name="tv_marugame_udon">Marugame Udon</string>
+    <string name="tv_marugame_price">Rp 50.000</string>
+    <string name="tv_ayam_geprek">Ayam Geprek</string>
+    <string name="tv_ayam_price">Rp 50.000</string>
+</resources>
